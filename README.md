@@ -1,5 +1,6 @@
 # Ancombc2-Analysis
 用于ANCOMBC2分析的脚本，可直接使用
+在使用之前，请使用convert的脚本将excel转换成csv格式
 # OTU_Table 示例格式
 # OTU_Table 数据应该是一个包含 OTU ID 和样本丰度的矩阵，第一列是 OTU ID，第一行是样本名，剩余部分是丰度值。
 # 示例：
